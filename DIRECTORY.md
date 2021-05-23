@@ -111,10 +111,7 @@
   * [Hex To Bin](https://github.com/TheAlgorithms/Python/blob/master/conversions/hex_to_bin.py)
   * [Hexadecimal To Decimal](https://github.com/TheAlgorithms/Python/blob/master/conversions/hexadecimal_to_decimal.py)
   * [Molecular Chemistry](https://github.com/TheAlgorithms/Python/blob/master/conversions/molecular_chemistry.py)
-<<<<<<< HEAD
-=======
   * [Octal To Decimal](https://github.com/TheAlgorithms/Python/blob/master/conversions/octal_to_decimal.py)
->>>>>>> upstream/master
   * [Prefix Conversions](https://github.com/TheAlgorithms/Python/blob/master/conversions/prefix_conversions.py)
   * [Rgb Hsv Conversion](https://github.com/TheAlgorithms/Python/blob/master/conversions/rgb_hsv_conversion.py)
   * [Roman Numerals](https://github.com/TheAlgorithms/Python/blob/master/conversions/roman_numerals.py)
@@ -225,10 +222,7 @@
   * [Heaps Algorithm Iterative](https://github.com/TheAlgorithms/Python/blob/master/divide_and_conquer/heaps_algorithm_iterative.py)
   * [Inversions](https://github.com/TheAlgorithms/Python/blob/master/divide_and_conquer/inversions.py)
   * [Kth Order Statistic](https://github.com/TheAlgorithms/Python/blob/master/divide_and_conquer/kth_order_statistic.py)
-<<<<<<< HEAD
-=======
   * [Max Difference Pair](https://github.com/TheAlgorithms/Python/blob/master/divide_and_conquer/max_difference_pair.py)
->>>>>>> upstream/master
   * [Max Subarray Sum](https://github.com/TheAlgorithms/Python/blob/master/divide_and_conquer/max_subarray_sum.py)
   * [Mergesort](https://github.com/TheAlgorithms/Python/blob/master/divide_and_conquer/mergesort.py)
   * [Peak](https://github.com/TheAlgorithms/Python/blob/master/divide_and_conquer/peak.py)
@@ -718,11 +712,8 @@
     * [Sol1](https://github.com/TheAlgorithms/Python/blob/master/project_euler/problem_057/sol1.py)
   * Problem 058
     * [Sol1](https://github.com/TheAlgorithms/Python/blob/master/project_euler/problem_058/sol1.py)
-<<<<<<< HEAD
-=======
   * Problem 059
     * [Sol1](https://github.com/TheAlgorithms/Python/blob/master/project_euler/problem_059/sol1.py)
->>>>>>> upstream/master
   * Problem 062
     * [Sol1](https://github.com/TheAlgorithms/Python/blob/master/project_euler/problem_062/sol1.py)
   * Problem 063
@@ -755,10 +746,6 @@
     * [Sol1](https://github.com/TheAlgorithms/Python/blob/master/project_euler/problem_080/sol1.py)
   * Problem 081
     * [Sol1](https://github.com/TheAlgorithms/Python/blob/master/project_euler/problem_081/sol1.py)
-<<<<<<< HEAD
-  * Problem 087
-    * [Sol1](https://github.com/TheAlgorithms/Python/blob/master/project_euler/problem_087/sol1.py)
-=======
   * Problem 085
     * [Sol1](https://github.com/TheAlgorithms/Python/blob/master/project_euler/problem_085/sol1.py)
   * Problem 086
@@ -767,7 +754,6 @@
     * [Sol1](https://github.com/TheAlgorithms/Python/blob/master/project_euler/problem_087/sol1.py)
   * Problem 089
     * [Sol1](https://github.com/TheAlgorithms/Python/blob/master/project_euler/problem_089/sol1.py)
->>>>>>> upstream/master
   * Problem 091
     * [Sol1](https://github.com/TheAlgorithms/Python/blob/master/project_euler/problem_091/sol1.py)
   * Problem 097
@@ -937,10 +923,7 @@
   * [Covid Stats Via Xpath](https://github.com/TheAlgorithms/Python/blob/master/web_programming/covid_stats_via_xpath.py)
   * [Crawl Google Results](https://github.com/TheAlgorithms/Python/blob/master/web_programming/crawl_google_results.py)
   * [Crawl Google Scholar Citation](https://github.com/TheAlgorithms/Python/blob/master/web_programming/crawl_google_scholar_citation.py)
-<<<<<<< HEAD
-=======
   * [Currency Converter](https://github.com/TheAlgorithms/Python/blob/master/web_programming/currency_converter.py)
->>>>>>> upstream/master
   * [Current Stock Price](https://github.com/TheAlgorithms/Python/blob/master/web_programming/current_stock_price.py)
   * [Current Weather](https://github.com/TheAlgorithms/Python/blob/master/web_programming/current_weather.py)
   * [Daily Horoscope](https://github.com/TheAlgorithms/Python/blob/master/web_programming/daily_horoscope.py)
